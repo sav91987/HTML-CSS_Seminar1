@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(0.25turn, #d9d6e8, #727fdf);
+}
+
+.link {
+    text-decoration: none;
+    color: cornflowerblue;;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.title {
+    color: coral;
+    font-size: 38px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none ;
+ }
+
+.text {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 10px;
+}
+.pickture {
+    border-radius: 10px;
+    margin-right: 10px;
+}
